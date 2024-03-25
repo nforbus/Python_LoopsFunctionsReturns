@@ -1,0 +1,2 @@
+#Declare files that will have LF line endings on checkout
+*.ipynb text eol=lf
